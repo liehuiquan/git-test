@@ -7,4 +7,5 @@ public class testGit {
         System.out.println("aaaaaa");
     }
     int b=2;
+    int c= 3;
 }
